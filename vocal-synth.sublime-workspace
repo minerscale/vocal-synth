@@ -1,0 +1,338 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Part",
+				"PartialOrd"
+			],
+			[
+				"Pa",
+				"PartialOrd"
+			],
+			[
+				"out",
+				"output"
+			],
+			[
+				"infi",
+				"infile"
+			],
+			[
+				"top",
+				"topnav_active"
+			],
+			[
+				"grid-templ",
+				"grid-template-rows"
+			],
+			[
+				"gred-",
+				"grid-template-columns"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"max",
+				"max-height"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"alig",
+				"align-items"
+			],
+			[
+				"padd",
+				"padding-bottom"
+			],
+			[
+				"pale",
+				"palegreen"
+			],
+			[
+				"pe",
+				"palevioletred"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"Exo",
+				"Exo2-VariableFont_wght"
+			],
+			[
+				"no",
+				"no_watermark_pixels"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Coninsta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/aaron/programming/vocal-synth"
+	],
+	"file_history":
+	[
+		"/home/aaron/Downloads/jefferson/README.txt",
+		"/tmp/password.txt",
+		"/home/aaron/programming/powers-of-two/src/main.rs",
+		"/home/aaron/programming/powers-of-two/Cargo.toml",
+		"/home/aaron/Documents/Chrome Passwords.csv",
+		"/home/aaron/programming/business-website/shtp/contact.html.shtp",
+		"/home/aaron/programming/business-website/shtp/404.html.shtp",
+		"/home/aaron/programming/business-website/website/style.css",
+		"/home/aaron/programming/business-website/tools/shtp.py",
+		"/home/aaron/programming/business-website/.gitignore",
+		"/home/aaron/programming/business-website/shtp/index.html.shtp",
+		"/home/aaron/programming/business-website/shtp/about.html.shtp",
+		"/home/aaron/programming/chaos/chaos.c",
+		"/home/aaron/Downloads/nvidia-bug-report.log",
+		"/home/aaron/programming/business-website/website/topnav.html",
+		"/home/aaron/programming/elektroniks/bytebeat.sublime-project",
+		"/home/aaron/programming/business-website/business-website.sublime-project",
+		"/home/aaron/programming/business-website/tools/serve.sh",
+		"/home/aaron/programming/business-website/website/index.html",
+		"/home/aaron/.local/share/Trash/files/Makefile",
+		"/home/aaron/programming/business-website/Makefile",
+		"/home/aaron/programming/business-website/myblog/404.html",
+		"/home/aaron/programming/business-website/myblog/index.markdown",
+		"/home/aaron/programming/business-website/myblog/Gemfile",
+		"/home/aaron/programming/business-website/myblog/_config.yml",
+		"/home/aaron/programming/business-website/website/404.html",
+		"/home/aaron/programming/business-website/myblog/_posts/2022-09-14-welcome-to-jekyll.markdown",
+		"/home/aaron/programming/business-website/haml/jeff.haml",
+		"/home/aaron/programming/elektroniks/Makefile",
+		"/home/aaron/programming/business-website/TODO",
+		"/home/aaron/.cache/.fr-hBJq6A/README.txt",
+		"/home/aaron/Videos/obs/data.txt",
+		"/home/aaron/Videos/obs/order.txt",
+		"/home/aaron/programming/data-cruncher.py",
+		"/home/aaron/programming/magic-images/image-bullshit.py",
+		"/home/aaron/programming/correction_data.csv",
+		"/home/aaron/programming/business-website/404.html",
+		"/home/aaron/.local/share/Steam/steamapps/common/Kerbal Space Program/Ships/VAB/Z-MAP Satellite Launch Kit.craft.original",
+		"/home/aaron/Downloads/correction_data.csv",
+		"/home/aaron/programming/jacobscraping/scraper.py",
+		"/home/aaron/Documents/business/portfolio.csv",
+		"/home/aaron/Documents/business/income.csv",
+		"/home/aaron/Documents/business/expenses.csv",
+		"/home/aaron/Videos/obs/fasts/order.txt",
+		"/home/aaron/.config/sublime-merge/Packages/User/Preferences.sublime-settings",
+		"/home/aaron/programming/business-website/index.html",
+		"/home/aaron/Documents/password.txt",
+		"/home/aaron/.config/texstudio/main.txsprofile",
+		"/home/aaron/Downloads/Uninstall.exe",
+		"/home/aaron/.bin/select-soundcard.sh",
+		"/home/aaron/Documents/business/business-website/about.md",
+		"/home/aaron/Documents/business/business-website/_posts/2019-07-18-welcome-to-jekyll.markdown",
+		"/home/aaron/Documents/business/business-website/_config.yml",
+		"/home/aaron/Documents/business/business-website/dark-poole-master/poole-for-jekyll.gemspec",
+		"/home/aaron/Documents/business/business-website/dark-poole-master/Gemfile.lock",
+		"/home/aaron/Documents/business/business-website/dark-poole-master/Gemfile",
+		"/home/aaron/Documents/business/business-website/dark-poole-master/atom.xml",
+		"/home/aaron/Documents/business/business-website/dark-poole-master/styles.scss",
+		"/home/aaron/programming/musescore-dev/musescore-dev.sublime-project",
+		"/home/aaron/Documents/business/business-website/business-website.sublime-project",
+		"/home/aaron/.config/sublime-merge/Packages/User/Commit Message.sublime-settings",
+		"/home/aaron/Documents/business/business-website/_posts/2021-01-09-boo.markdown",
+		"/home/aaron/Documents/business/expenses/expenses.csv",
+		"/home/aaron/programming/musescore-dev/build.sh",
+		"/home/aaron/.ssh/id_rsa.pub",
+		"/home/aaron/.startup.sh",
+		"/home/aaron/.config/autostart/cadence-session-start.sh",
+		"/efi/EFI/refind/refind.conf",
+		"/home/aaron/.config/autostart/cadence-session-start.desktop",
+		"/home/aaron/.config/sublime-text-3/Packages/Theme - Brogrammer/Brogrammer.sublime-theme",
+		"/home/aaron/.config/sublime-text-3/Packages/User/Brogrammer.sublime-theme",
+		"/home/aaron/.cache/.fr-ox925m/Brogrammer.sublime-theme",
+		"/home/aaron/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/aaron/.config/sublime-text-3/Packages/User/Default.sublime-theme",
+		"/home/aaron/.cache/.fr-O5nV0Q/Brogrammer.sublime-theme",
+		"/home/aaron/.cache/.fr-P3ZaLN/Brogrammer.sublime-theme",
+		"/home/aaron/.local/share/applications/shutdown.desktop",
+		"/home/aaron/.local/share/applications/logoff.desktop",
+		"/home/aaron/.local/share/applications/reboot.desktop",
+		"/home/aaron/.local/share/applications/reboot"
+	],
+	"find":
+	{
+		"height": 29.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.0
+	},
+	"input":
+	{
+		"height": 37.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.LSP Log Panel":
+	{
+		"height": 0.0
+	},
+	"output.diagnostics":
+	{
+		"height": 128.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "serve",
+	"project": "vocal-synth.sublime-project",
+	"replace":
+	{
+		"height": 54.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 229.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
