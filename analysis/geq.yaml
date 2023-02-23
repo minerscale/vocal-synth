@@ -1,0 +1,49 @@
+optimizer:
+  min_f: 20
+  max_f: 20000
+  max_time: null  # Letting optimizer finish since this is probably for a one-off custom optimization, not for API
+  min_change_rate: null  # Letting optimizer finish
+  min_std: null  # Letting optimizer finish
+filter_defaults:
+  type: PEAKING
+  min_fc: 20
+  max_fc: 20000
+  q: 1
+  #min_gain: -50
+  #max_gain: 50
+filters:
+  - fc: 20
+  - fc: 40
+  - fc: 103
+  - fc: 207
+  - fc: 352
+  - fc: 539
+  - fc: 768
+  - fc: 1038
+  - fc: 1350
+  - fc: 1704
+  - fc: 2099
+  - fc: 2535
+  - fc: 3013
+  - fc: 3533
+  - fc: 4095
+  - fc: 4697
+  - fc: 5342
+  - fc: 6028
+  - fc: 6756
+  - fc: 7525
+  - fc: 8336
+  - fc: 9188
+  - fc: 10082
+  - fc: 11018
+  - fc: 11995
+  - fc: 13014
+  - fc: 14074
+  - fc: 15176
+  - fc: 16320
+  - fc: 17505
+  - fc: 18731
+  - type: HIGH_SHELF
+    fc: 10000
+    q: 0.5
+    gain: -36

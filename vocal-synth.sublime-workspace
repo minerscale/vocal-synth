@@ -4,6 +4,46 @@
 		"selected_items":
 		[
 			[
+				"time",
+				"prev_time"
+			],
+			[
+				"EQ_",
+				"EQ_GAIN"
+			],
+			[
+				"pow",
+				"powf(…)"
+			],
+			[
+				"High",
+				"Highshelf"
+			],
+			[
+				"Cur",
+				"Curve::Lowshelf"
+			],
+			[
+				"ne",
+				"new"
+			],
+			[
+				"wri",
+				"writerows"
+			],
+			[
+				"sam",
+				"samples"
+			],
+			[
+				"reco",
+				"record_total"
+			],
+			[
+				"rec",
+				"record_xd"
+			],
+			[
 				"Part",
 				"PartialOrd"
 			],
@@ -75,10 +115,332 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "/home/aaron/.local/share/sm64ex/sm64config.txt",
+			"settings":
+			{
+				"buffer_size": 814,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+				[
+					11,
+					1,
+					"insert",
+					{
+						"characters": "false"
+					},
+					"BgAAAEwAAAAAAAAATQAAAAAAAAAAAAAATQAAAAAAAABNAAAAAAAAAAQAAAB0cnVlTQAAAAAAAABOAAAAAAAAAAAAAABOAAAAAAAAAE8AAAAAAAAAAAAAAE8AAAAAAAAAUAAAAAAAAAAAAAAAUAAAAAAAAABRAAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABMAAAAAAAAAFAAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					5,
+					1,
+					"insert",
+					{
+						"characters": "90="
+					},
+					"BAAAAMUCAAAAAAAAxgIAAAAAAAAAAAAAxgIAAAAAAADGAgAAAAAAAAIAAAA1MMYCAAAAAAAAxwIAAAAAAAAAAAAAxwIAAAAAAADIAgAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAxQIAAAAAAADHAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					6,
+					1,
+					"left_delete",
+					null,
+					"AQAAAMcCAAAAAAAAxwIAAAAAAAABAAAAPQ",
+					"AQAAAAAAAAABAAAAyAIAAAAAAADIAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					8,
+					2,
+					"left_delete",
+					null,
+					"AgAAANkCAAAAAAAA2QIAAAAAAAABAAAAMNgCAAAAAAAA2AIAAAAAAAABAAAANQ",
+					"AQAAAAAAAAABAAAA2gIAAAAAAADaAgAAAAAAAAAAAAAAgGZA"
+				],
+				[
+					9,
+					1,
+					"insert",
+					{
+						"characters": "0"
+					},
+					"AQAAANgCAAAAAAAA2QIAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA2AIAAAAAAADYAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					10,
+					1,
+					"left_delete",
+					null,
+					"AQAAANgCAAAAAAAA2AIAAAAAAAABAAAAMA",
+					"AQAAAAAAAAABAAAA2QIAAAAAAADZAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					11,
+					1,
+					"insert",
+					{
+						"characters": "90"
+					},
+					"AgAAANgCAAAAAAAA2QIAAAAAAAAAAAAA2QIAAAAAAADaAgAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA2AIAAAAAAADYAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					35,
+					1,
+					"insert",
+					{
+						"characters": "1400"
+					},
+					"BQAAADQAAAAAAAAANQAAAAAAAAAAAAAANQAAAAAAAAA1AAAAAAAAAAQAAAAxMjgwNQAAAAAAAAA2AAAAAAAAAAAAAAA2AAAAAAAAADcAAAAAAAAAAAAAADcAAAAAAAAAOAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAANAAAAAAAAAA4AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					37,
+					3,
+					"left_delete",
+					null,
+					"AwAAAEQAAAAAAAAARAAAAAAAAAABAAAAMEMAAAAAAAAAQwAAAAAAAAABAAAANkIAAAAAAAAAQgAAAAAAAAABAAAAOQ",
+					"AQAAAAAAAAABAAAARQAAAAAAAABFAAAAAAAAAAAAAAAAQGBA"
+				],
+				[
+					38,
+					1,
+					"insert",
+					{
+						"characters": "1050"
+					},
+					"BAAAAEIAAAAAAAAAQwAAAAAAAAAAAAAAQwAAAAAAAABEAAAAAAAAAAAAAABEAAAAAAAAAEUAAAAAAAAAAAAAAEUAAAAAAAAARgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAQgAAAAAAAABCAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					47,
+					1,
+					"insert",
+					{
+						"characters": "1575"
+					},
+					"BQAAABoAAAAAAAAAGwAAAAAAAAAAAAAAGwAAAAAAAAAbAAAAAAAAAAQAAAAxODg1GwAAAAAAAAAcAAAAAAAAAAAAAAAcAAAAAAAAAB0AAAAAAAAAAAAAAB0AAAAAAAAAHgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAGgAAAAAAAAAeAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					55,
+					1,
+					"insert",
+					{
+						"characters": "0"
+					},
+					"AgAAACgAAAAAAAAAKQAAAAAAAAAAAAAAKQAAAAAAAAApAAAAAAAAAAIAAAAyOQ",
+					"AQAAAAAAAAABAAAAKAAAAAAAAAAqAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					68,
+					1,
+					"revert",
+					null,
+					"AgAAAAAAAAAAAAAAAAAAAAAAAAAuAwAAZnVsbHNjcmVlbiBmYWxzZQp3aW5kb3dfeCAxNTc1CndpbmRvd195IDAKd2luZG93X3cgMTQwMAp3aW5kb3dfaCAxMDUwCnZzeW5jIGZhbHNlCnRleHR1cmVfZmlsdGVyaW5nIDEKbWFzdGVyX3ZvbHVtZSAxMjcKbXVzaWNfdm9sdW1lIDEyNwpzZnhfdm9sdW1lIDEyNwplbnZfdm9sdW1lIDEyNwprZXlfYSAwMDM5IGZmZmYgZmZmZiAKa2V5X2IgMDAxYyBmZmZmIGZmZmYgCmtleV9zdGFydCAwMDAxIGZmZmYgZmZmZiAKa2V5X2wgMTEwMSBmZmZmIGZmZmYgCmtleV9yIDExMDIgZmZmZiBmZmZmIAprZXlfeiAwMDJhIGZmZmYgZmZmZiAKa2V5X2N1cCAwMDE1IGZmZmYgZmZmZiAKa2V5X2Nkb3duIDAwMTcgZmZmZiBmZmZmIAprZXlfY2xlZnQgMDAxMiBmZmZmIGZmZmYgCmtleV9jcmlnaHQgMDAxOCBmZmZmIGZmZmYgCmtleV9zdGlja3VwIDAwMTEgZmZmZiBmZmZmIAprZXlfc3RpY2tkb3duIDAwMTMgZmZmZiBmZmZmIAprZXlfc3RpY2tsZWZ0IDAwMWUgZmZmZiBmZmZmIAprZXlfc3RpY2tyaWdodCAwMDFmIGZmZmYgZmZmZiAKc3RpY2tfZGVhZHpvbmUgMTYKcnVtYmxlX3N0cmVuZ3RoIDUwCnByZWNhY2hlIHRydWUKYmV0dGVyY2FtX2VuYWJsZSB0cnVlCmJldHRlcmNhbV9hbmFsb2cgdHJ1ZQpiZXR0ZXJjYW1fbW91c2VfbG9vayB0cnVlCmJldHRlcmNhbV9pbnZlcnR4IHRydWUKYmV0dGVyY2FtX2ludmVydHkgZmFsc2UKYmV0dGVyY2FtX3hzZW5zIDkwCmJldHRlcmNhbV95c2VucyA5MApiZXR0ZXJjYW1fYWdncmVzc2lvbiAwCmJldHRlcmNhbV9wYW5fbGV2ZWwgMApiZXR0ZXJjYW1fZGVncmFkZSAxMApza2lwX2ludHJvIGZhbHNlCgAAAAAAAAAALwMAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAALgMAAAAAAAAuAwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					77,
+					1,
+					"insert",
+					{
+						"characters": "1050"
+					},
+					"BQAAABoAAAAAAAAAGwAAAAAAAAAAAAAAGwAAAAAAAAAbAAAAAAAAAAQAAAAxMDE2GwAAAAAAAAAcAAAAAAAAAAAAAAAcAAAAAAAAAB0AAAAAAAAAAAAAAB0AAAAAAAAAHgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAGgAAAAAAAAAeAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					79,
+					2,
+					"left_delete",
+					null,
+					"AgAAACkAAAAAAAAAKQAAAAAAAAABAAAAOSgAAAAAAAAAKAAAAAAAAAABAAAAMg",
+					"AQAAAAAAAAABAAAAKgAAAAAAAAAqAAAAAAAAAAAAAAAAQGBA"
+				],
+				[
+					80,
+					1,
+					"insert",
+					{
+						"characters": "09"
+					},
+					"AgAAACgAAAAAAAAAKQAAAAAAAAAAAAAAKQAAAAAAAAAqAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAKAAAAAAAAAAoAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					81,
+					1,
+					"left_delete",
+					null,
+					"AQAAACkAAAAAAAAAKQAAAAAAAAABAAAAOQ",
+					"AQAAAAAAAAABAAAAKgAAAAAAAAAqAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					84,
+					4,
+					"left_delete",
+					null,
+					"BAAAADYAAAAAAAAANgAAAAAAAAABAAAAMTUAAAAAAAAANQAAAAAAAAABAAAAMjQAAAAAAAAANAAAAAAAAAABAAAAMjMAAAAAAAAAMwAAAAAAAAABAAAAMg",
+					"AQAAAAAAAAABAAAANwAAAAAAAAA3AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					85,
+					1,
+					"insert",
+					{
+						"characters": "1050"
+					},
+					"BAAAADMAAAAAAAAANAAAAAAAAAAAAAAANAAAAAAAAAA1AAAAAAAAAAAAAAA1AAAAAAAAADYAAAAAAAAAAAAAADYAAAAAAAAANwAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAMwAAAAAAAAAzAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					86,
+					3,
+					"left_delete",
+					null,
+					"AwAAADYAAAAAAAAANgAAAAAAAAABAAAAMDUAAAAAAAAANQAAAAAAAAABAAAANTQAAAAAAAAANAAAAAAAAAABAAAAMA",
+					"AQAAAAAAAAABAAAANwAAAAAAAAA3AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					87,
+					1,
+					"insert",
+					{
+						"characters": "680"
+					},
+					"AwAAADQAAAAAAAAANQAAAAAAAAAAAAAANQAAAAAAAAA2AAAAAAAAAAAAAAA2AAAAAAAAADcAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAANAAAAAAAAAA0AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					89,
+					2,
+					"left_delete",
+					null,
+					"AgAAAEQAAAAAAAAARAAAAAAAAAABAAAAMUMAAAAAAAAAQwAAAAAAAAABAAAAOQ",
+					"AQAAAAAAAAABAAAARQAAAAAAAABFAAAAAAAAAAAAAAAAQGBA"
+				],
+				[
+					90,
+					1,
+					"insert",
+					{
+						"characters": "50"
+					},
+					"AgAAAEMAAAAAAAAARAAAAAAAAAAAAAAARAAAAAAAAABFAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAQwAAAAAAAABDAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					99,
+					1,
+					"revert",
+					null,
+					"AgAAAAAAAAAAAAAAAAAAAAAAAAAuAwAAZnVsbHNjcmVlbiBmYWxzZQp3aW5kb3dfeCAxMDUwCndpbmRvd195IDAKd2luZG93X3cgMTY4MAp3aW5kb3dfaCAxMDUwCnZzeW5jIGZhbHNlCnRleHR1cmVfZmlsdGVyaW5nIDEKbWFzdGVyX3ZvbHVtZSAxMjcKbXVzaWNfdm9sdW1lIDEyNwpzZnhfdm9sdW1lIDEyNwplbnZfdm9sdW1lIDEyNwprZXlfYSAwMDM5IGZmZmYgZmZmZiAKa2V5X2IgMDAxYyBmZmZmIGZmZmYgCmtleV9zdGFydCAwMDAxIGZmZmYgZmZmZiAKa2V5X2wgMTEwMSBmZmZmIGZmZmYgCmtleV9yIDExMDIgZmZmZiBmZmZmIAprZXlfeiAwMDJhIGZmZmYgZmZmZiAKa2V5X2N1cCAwMDE1IGZmZmYgZmZmZiAKa2V5X2Nkb3duIDAwMTcgZmZmZiBmZmZmIAprZXlfY2xlZnQgMDAxMiBmZmZmIGZmZmYgCmtleV9jcmlnaHQgMDAxOCBmZmZmIGZmZmYgCmtleV9zdGlja3VwIDAwMTEgZmZmZiBmZmZmIAprZXlfc3RpY2tkb3duIDAwMTMgZmZmZiBmZmZmIAprZXlfc3RpY2tsZWZ0IDAwMWUgZmZmZiBmZmZmIAprZXlfc3RpY2tyaWdodCAwMDFmIGZmZmYgZmZmZiAKc3RpY2tfZGVhZHpvbmUgMTYKcnVtYmxlX3N0cmVuZ3RoIDUwCnByZWNhY2hlIHRydWUKYmV0dGVyY2FtX2VuYWJsZSB0cnVlCmJldHRlcmNhbV9hbmFsb2cgdHJ1ZQpiZXR0ZXJjYW1fbW91c2VfbG9vayB0cnVlCmJldHRlcmNhbV9pbnZlcnR4IHRydWUKYmV0dGVyY2FtX2ludmVydHkgZmFsc2UKYmV0dGVyY2FtX3hzZW5zIDkwCmJldHRlcmNhbV95c2VucyA5MApiZXR0ZXJjYW1fYWdncmVzc2lvbiAwCmJldHRlcmNhbV9wYW5fbGV2ZWwgMApiZXR0ZXJjYW1fZGVncmFkZSAxMApza2lwX2ludHJvIGZhbHNlCgAAAAAAAAAALwMAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAALgMAAAAAAAAuAwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					104,
+					1,
+					"left_delete",
+					null,
+					"AQAAACgAAAAAAAAAKAAAAAAAAAACAAAAMjU",
+					"AQAAAAAAAAABAAAAKAAAAAAAAAAqAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					105,
+					1,
+					"insert",
+					{
+						"characters": "0"
+					},
+					"AQAAACgAAAAAAAAAKQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAKAAAAAAAAAAoAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					109,
+					2,
+					"left_delete",
+					null,
+					"AgAAAEQAAAAAAAAARAAAAAAAAAABAAAANUMAAAAAAAAAQwAAAAAAAAABAAAAMg",
+					"AQAAAAAAAAABAAAARQAAAAAAAABFAAAAAAAAAAAAAAAAQGBA"
+				],
+				[
+					110,
+					1,
+					"insert",
+					{
+						"characters": "50"
+					},
+					"AgAAAEMAAAAAAAAARAAAAAAAAAAAAAAARAAAAAAAAABFAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAQwAAAAAAAABDAAAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		}
 	],
-	"build_system": "",
+	"build_system": "Packages/Rust Enhanced/RustEnhanced.sublime-build",
 	"build_system_choices":
 	[
+		[
+			[
+				[
+					"Packages/Rust Enhanced/RustEnhanced.sublime-build",
+					""
+				],
+				[
+					"Packages/Rust Enhanced/RustEnhanced.sublime-build",
+					"Automatic"
+				],
+				[
+					"Packages/Rust Enhanced/RustEnhanced.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/Rust Enhanced/RustEnhanced.sublime-build",
+					"Run (with args)..."
+				],
+				[
+					"Packages/Rust Enhanced/RustEnhanced.sublime-build",
+					"Check"
+				],
+				[
+					"Packages/Rust Enhanced/RustEnhanced.sublime-build",
+					"Test"
+				],
+				[
+					"Packages/Rust Enhanced/RustEnhanced.sublime-build",
+					"Test (with args)..."
+				],
+				[
+					"Packages/Rust Enhanced/RustEnhanced.sublime-build",
+					"Bench"
+				],
+				[
+					"Packages/Rust Enhanced/RustEnhanced.sublime-build",
+					"Clean"
+				],
+				[
+					"Packages/Rust Enhanced/RustEnhanced.sublime-build",
+					"Document"
+				],
+				[
+					"Packages/Rust Enhanced/RustEnhanced.sublime-build",
+					"Clippy"
+				],
+				[
+					"Packages/Rust Enhanced/RustEnhanced.sublime-build",
+					"Script"
+				]
+			],
+			[
+				"Packages/Rust Enhanced/RustEnhanced.sublime-build",
+				""
+			]
+		]
 	],
 	"build_varint": "",
 	"command_palette":
@@ -120,12 +482,71 @@
 	},
 	"expanded_folders":
 	[
-		"/home/aaron/programming/vocal-synth"
+		"/home/aaron/programming/vocal-synth",
+		"/home/aaron/programming/vocal-synth/analysis",
+		"/home/aaron/programming/vocal-synth/src",
+		"/home/aaron/programming/vocal-synth/src/synth"
 	],
 	"file_history":
 	[
-		"/home/aaron/Downloads/jefferson/README.txt",
+		"/home/aaron/programming/marksite/pagegen.py",
+		"/home/aaron/.local/share/sm64ex/sm64config-1.txt",
+		"/home/aaron/.local/share/sm64ex/sm64config.txt",
+		"/home/aaron/programming/sm64-port/build/us_pc/level_rules.mk",
 		"/tmp/password.txt",
+		"/home/aaron/Downloads/message.txt",
+		"/home/aaron/programming/marksite/hours.txt",
+		"/home/aaron/programming/marksite/teaching.html",
+		"/home/aaron/programming/marksite/clarinet-ensemble.html",
+		"/home/aaron/programming/marksite/sax-ensemble.html",
+		"/home/aaron/programming/marksite/woodwind-ensemble.html",
+		"/home/aaron/programming/marksite/unusual_combinations.html",
+		"/home/aaron/programming/marksite/shop-items.csv",
+		"/home/aaron/programming/marksite/concert_music.html",
+		"/home/aaron/programming/marksite/quartets.html",
+		"/home/aaron/Downloads/shop-items - shop-items(1).tsv",
+		"/home/aaron/programming/marksite/duets.html",
+		"/home/aaron/programming/marksite/test.html",
+		"/home/aaron/Downloads/shop-items - shop-items.csv",
+		"/home/aaron/programming/vocal-synth/analysis/fricatives/h/flat FixedBandEQ.txt",
+		"/home/aaron/programming/vocal-synth/analysis/fricatives/ʃ/flat FixedBandEQ.txt",
+		"/home/aaron/programming/vocal-synth/analysis/fricatives/s/flat FixedBandEQ.txt",
+		"/home/aaron/programming/vocal-synth/analysis/fricatives/θ/flat FixedBandEQ.txt",
+		"/home/aaron/programming/vocal-synth/analysis/fricatives/f/flat FixedBandEQ.txt",
+		"/home/aaron/programming/vocal-synth/src/synth.rs",
+		"/home/aaron/programming/vocal-synth/analysis/fricatives/f/flat.csv",
+		"/home/aaron/programming/vocal-synth/src/main.rs",
+		"/home/aaron/programming/vocal-synth/analysis/generate-geq.py",
+		"/home/aaron/programming/vocal-synth/analysis/fricatives/θ/flat GraphicEQ.txt",
+		"/home/aaron/programming/vocal-synth/analysis/fricatives/θ/flat.csv",
+		"/home/aaron/programming/vocal-synth/analysis/geq.yaml",
+		"/home/aaron/programming/vocal-synth/src/synth/data.rs",
+		"/home/aaron/programming/vocal-synth/Cargo.toml",
+		"/home/aaron/programming/vocal-synth/analysis/analysis-fricatives.py",
+		"/home/aaron/programming/vocal-synth/analysis/fricatives/f/flat GraphicEQ.txt",
+		"/home/aaron/programming/simple-eq/benches/realtime.rs",
+		"/home/aaron/programming/vocal-synth/.git/info/exclude",
+		"/home/aaron/programming/vocal-synth/.git/config",
+		"/home/aaron/programming/vocal-synth/analysis/fricatives/h/flat GraphicEQ.txt",
+		"/home/aaron/programming/vocal-synth/analysis/fricatives/h/flat.csv",
+		"/home/aaron/programming/vocal-synth/src/data.rs",
+		"/home/aaron/programming/vocal-synth/analysis/analysis-vowels.py",
+		"/home/aaron/programming/vocal-synth/analysis/compensation/h.csv",
+		"/home/aaron/programming/vocal-synth/analysis/measurements/flat.csv",
+		"/home/aaron/programming/vocal-synth/analysis/results/flat GraphicEQ.txt",
+		"/home/aaron/programming/vocal-synth/analysis/results/Audio-Technica ATH-M50x.csv",
+		"/home/aaron/programming/vocal-synth/analysis/compensation/harman_over-ear_2018_wo_bass.csv",
+		"/home/aaron/programming/vocal-synth/analysis/results/Audio-Technica ATH-M50x GraphicEQ.txt",
+		"/home/aaron/programming/vocal-synth/analysis/measurements/Audio-Technica ATH-M50x.csv",
+		"/home/aaron/programming/vocal-synth/analysis/results/flat.csv",
+		"/home/aaron/programming/vocal-synth/AutoEq/.git",
+		"/home/aaron/programming/vocal-synth/analysis/analysis.py",
+		"/home/aaron/programming/vocal-synth/.gitignore",
+		"/home/aaron/programming/vocal-synth/analysis/optimal_frequencies.txt",
+		"/home/aaron/programming/vocal-synth/README.md",
+		"/home/aaron/.config/sublime-merge/Packages/User/Preferences.sublime-settings",
+		"/home/aaron/.ssh/id_rsa.pub",
+		"/home/aaron/Downloads/jefferson/README.txt",
 		"/home/aaron/programming/powers-of-two/src/main.rs",
 		"/home/aaron/programming/powers-of-two/Cargo.toml",
 		"/home/aaron/Documents/Chrome Passwords.csv",
@@ -168,7 +589,6 @@
 		"/home/aaron/Documents/business/income.csv",
 		"/home/aaron/Documents/business/expenses.csv",
 		"/home/aaron/Videos/obs/fasts/order.txt",
-		"/home/aaron/.config/sublime-merge/Packages/User/Preferences.sublime-settings",
 		"/home/aaron/programming/business-website/index.html",
 		"/home/aaron/Documents/password.txt",
 		"/home/aaron/.config/texstudio/main.txsprofile",
@@ -188,7 +608,6 @@
 		"/home/aaron/Documents/business/business-website/_posts/2021-01-09-boo.markdown",
 		"/home/aaron/Documents/business/expenses/expenses.csv",
 		"/home/aaron/programming/musescore-dev/build.sh",
-		"/home/aaron/.ssh/id_rsa.pub",
 		"/home/aaron/.startup.sh",
 		"/home/aaron/.config/autostart/cadence-session-start.sh",
 		"/efi/EFI/refind/refind.conf",
@@ -197,13 +616,7 @@
 		"/home/aaron/.config/sublime-text-3/Packages/User/Brogrammer.sublime-theme",
 		"/home/aaron/.cache/.fr-ox925m/Brogrammer.sublime-theme",
 		"/home/aaron/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
-		"/home/aaron/.config/sublime-text-3/Packages/User/Default.sublime-theme",
-		"/home/aaron/.cache/.fr-O5nV0Q/Brogrammer.sublime-theme",
-		"/home/aaron/.cache/.fr-P3ZaLN/Brogrammer.sublime-theme",
-		"/home/aaron/.local/share/applications/shutdown.desktop",
-		"/home/aaron/.local/share/applications/logoff.desktop",
-		"/home/aaron/.local/share/applications/reboot.desktop",
-		"/home/aaron/.local/share/applications/reboot"
+		"/home/aaron/.config/sublime-text-3/Packages/User/Default.sublime-theme"
 	],
 	"find":
 	{
@@ -221,6 +634,39 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"57",
+			"deuts",
+			"\t",
+			"\\t",
+			"bumper",
+			"BUMPER",
+			"wobbly",
+			"|",
+			";",
+			"|",
+			"\\n",
+			" dB Q 1\\.00",
+			" \\n",
+			"dB Q 1\\.00",
+			"\\n",
+			"dB Q 1.00",
+			"\\n",
+			"dB Q 1.00",
+			"\\n",
+			"dB[ a-Z\\.0-9]*",
+			"\\n",
+			" ",
+			"fc",
+			";",
+			"scipy.io",
+			"]",
+			"([0-9][0-9][0-9][0-9][0-9][0-9][0-9][0-9])",
+			"04643322",
+			"([0-9][0-9][0-9][0-9][0-9][0-9][0-9][0-9])",
+			" ",
+			"(0\\.[0-9][0-9][0-9][0-9][0-9][0-9][0-9][0-9])([0-9]*),",
+			" ",
+			"\\n"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -228,6 +674,26 @@
 		"regex": true,
 		"replace_history":
 		[
+			"|",
+			" | ",
+			"",
+			", ",
+			"",
+			", ",
+			"",
+			", ",
+			"",
+			";\\n",
+			"],",
+			"\\1,",
+			"\\1, ",
+			", ",
+			",",
+			"\\1",
+			",",
+			"",
+			",",
+			""
 		],
 		"reverse": false,
 		"scrollbar_highlights": true,
@@ -242,6 +708,37 @@
 		{
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "/home/aaron/.local/share/sm64ex/sm64config.txt",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 814,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								69,
+								69
+							]
+						],
+						"settings":
+						{
+							"lsp_uri": "file:///home/aaron/.local/share/sm64ex/sm64config.txt",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
 			]
 		}
 	],
@@ -251,7 +748,7 @@
 	},
 	"input":
 	{
-		"height": 37.0
+		"height": 41.0
 	},
 	"layout":
 	{
@@ -284,11 +781,19 @@
 	{
 		"height": 128.0
 	},
+	"output.exec":
+	{
+		"height": 134.0
+	},
 	"output.find_results":
 	{
 		"height": 0.0
 	},
-	"pinned_build_system": "serve",
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Rust Enhanced/RustEnhanced.sublime-build",
 	"project": "vocal-synth.sublime-project",
 	"replace":
 	{
